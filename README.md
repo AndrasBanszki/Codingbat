@@ -7,6 +7,8 @@ The execises are organized in different files, as topics as you can find on the 
 
 Commenting on the descriptions of tasks can be found directly before the solutions.
 
+Feel free to comment.
+
 
 Bánszki András
 andras.banszki@gmail.com
