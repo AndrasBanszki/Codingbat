@@ -1,12 +1,9 @@
-/*
- * Codingbat solutions.
- */
+    /**
+     * Codingbat solutions.
+     * @author Bánszki András <andras.banszki@gmail.com>
+     */
 package codingbatsolutions;
 
-/**
- *
- * @author Bánszki András <andras.banszki@gmail.com>
- */
 public class Warmup1 {
 /* 
     Warmup-1 > sleepIn 
